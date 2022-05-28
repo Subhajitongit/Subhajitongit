@@ -1,5 +1,6 @@
 # 💫About Me :
 🔭 I’m currently working on flutter
+<br>
 👯‍♂️ I’m looking to collaborate on flutter based projects along with nodeJS and Typescript projects.
 🌱Currently learning web dev, solidity and PostgreSQL
 💬Ask me about mobile app developement
