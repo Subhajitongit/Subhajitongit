@@ -4,7 +4,7 @@
 👯‍♂️ I’m looking to collaborate on flutter based projects along with nodeJS and Typescript projects.<br>
 🌱Currently learning web dev, solidity and PostgreSQL<br>
 💬Ask me about mobile app developement<br>
-⚡Fun fact: tea to code over caffeine to code😬<br>
+⚡Fun fact: I can cook🍳 and do 100 kgs of deadlifting💪🏻<br>
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhajit-gorai/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/helloSubhajit) 
