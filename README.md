@@ -3,7 +3,7 @@
 🔭 I’m currently working on flutter
 <br>
 👯‍♂️ I’m looking to collaborate on flutter based projects along with nodeJS and Typescript projects.<br>
-🌱Currently learning web dev, solidity and PostgreSQL<br>
+🌱Currently learning Solana📦<br>
 💬Ask me about mobile app developement<br>
 ⚡Fun fact: I can cook🍳 and do 100 kgs of deadlifting💪🏻<br>
 
