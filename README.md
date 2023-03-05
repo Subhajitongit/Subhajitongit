@@ -4,7 +4,7 @@
 <br>
 👯‍♂️ I’m looking to collaborate on flutter based projects along with nodeJS and Typescript projects.<br>
 🌱Currently learning Solana📦<br>
-💬Ask me about mobile app developement<br>
+💬Ask me about full stack developement<br>
 ⚡Fun fact: I can cook🍳 and do 100 kgs of deadlifting💪🏻<br>
 
 ## 🌐Socials
