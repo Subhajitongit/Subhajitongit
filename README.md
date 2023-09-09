@@ -4,8 +4,8 @@
 <br>
 👯‍♂️ I’m looking to collaborate on flutter based projects along with nodeJS and Typescript projects.<br>
 🌱Currently learning Solana📦<br>
-💬Ask me about full stack developement<br>
-⚡Fun fact: I can cook🍳 and do 100 kgs of deadlifting💪🏻<br>
+💬Ask me about full stack development <br>
+⚡Fun fact: I can cook🍳 and do 150 kgs of deadlifting💪🏻<br>
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhajit-gorai/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/helloSubhajit) [![]()](https://subhajit.ml)
